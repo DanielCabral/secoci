@@ -1,0 +1,2051 @@
+[
+  {
+    "id": 1,
+    "titulo": "O QUE SÃO AS NUVENS?",
+    "serie": "1º Ano",
+    "turma": "A",
+    "componentes": [
+      "Ana Laura Passos Alves",
+      "Elisa Gomes de Andrade",
+      "Liz Paiva Bezerra S. Silva",
+      "Maria Ísis Fernandes de Sousa"
+    ],
+    "orientador": "Valcilene Nogueira de Lima Lopes"
+  },
+  {
+    "id": 2,
+    "titulo": "CURIOSIDADE SOBRE OS DINOSSAUROS",
+    "serie": "1º Ano",
+    "turma": "A",
+    "componentes": [
+      "Arthur Lorran G. de Oliveira Fernandes",
+      "Bernardo Frutuoso dos Santos",
+      "João Guilherme Gomes Costa",
+      "Lívia Marinho Fernandes Montenegro"
+    ],
+    "orientador": "Valcilene Nogueira de Lima Lopes"
+  },
+  {
+    "id": 3,
+    "titulo": "O QUE É UM VULCÃO?",
+    "serie": "1º Ano",
+    "turma": "A",
+    "componentes": [
+      "Matteo Cardoso da M. Fernandes",
+      "Paulo Isaac Silva M. de Carvalho",
+      "Theo Dias Sá"
+    ],
+    "orientador": "Valcilene Nogueira de Lima Lopes"
+  },
+  {
+    "id": 4,
+    "titulo": "COMO SE FORMA O ARCO-ÍRIS",
+    "serie": "1º Ano",
+    "turma": "A",
+    "componentes": [
+      "Amélie Pinto Xavier",
+      "Lara Sofia Morais de Lima",
+      "Selena dos Santos Freire"
+    ],
+    "orientador": "Valcilene Nogueira de Lima Lopes"
+  },
+  {
+    "id": 5,
+    "titulo": "O TUM TUM DO CORAÇÃO",
+    "serie": "1º Ano",
+    "turma": "B",
+    "componentes": [
+      "José Manoel Costa Ferreira",
+      "Miguel Germano Cavalcante Maia",
+      "Igor Fernandes Alves Maia."
+    ],
+    "orientador": "Tâmyza Rícely de Freitas Alves"
+  },
+  {
+    "id": 6,
+    "titulo": "AS PLANTAS CARNIVORAS",
+    "serie": "1º Ano",
+    "turma": "B",
+    "componentes": [
+      "Lara Daniele Negreiros Rocha",
+      "Mariah Aires de Sá",
+      "Maria Helena Morais Gomes"
+    ],
+    "orientador": "Tâmyza Rícely de Freitas Alves"
+  },
+  {
+    "id": 7,
+    "titulo": "O MISTÉRIO DO ARCO-ÍRIS",
+    "serie": "1º Ano",
+    "turma": "B",
+    "componentes": [
+      "Ana Beatriz Oliveira de Sousa",
+      "Ilanna Sophia Martins de Oliveira",
+      "Melina Morais Medeiros."
+    ],
+    "orientador": "Tâmyza Rícely de Freitas Alves"
+  },
+  {
+    "id": 8,
+    "titulo": "O MOVIMENTO DO SOL",
+    "serie": "1º Ano",
+    "turma": "B",
+    "componentes": [
+      "Francileudo Calebe Medeiros da Fonseca.",
+      "Letícia Figueiredo Rêgo",
+      "Marjorie Lima de Lira."
+    ],
+    "orientador": "Tâmyza Rícely de Freitas Alves"
+  },
+  {
+    "id": 9,
+    "titulo": "A ESTRELA BRILHANTE",
+    "serie": "1º Ano",
+    "turma": "B",
+    "componentes": [
+      "Lavínia Cibele de Morais Carneiro Alves",
+      "Stella Medeiros de Queiroz."
+    ],
+    "orientador": "Tâmyza Rícely de Freitas Alves"
+  },
+  {
+    "id": 10,
+    "titulo": "DENTRO DA SINGULARIDADE DO BURACO NEGRO",
+    "serie": "1º Ano",
+    "turma": "B",
+    "componentes": [
+      "Beto Gurgel de Sousa",
+      "Joaquim Heitor de Lima Souza."
+    ],
+    "orientador": "Tâmyza Rícely de Freitas Alves"
+  },
+  {
+    "id": 11,
+    "titulo": "OS DETETIVES DA VIDA DOS GATOS",
+    "serie": "1º Ano",
+    "turma": "C",
+    "componentes": [
+      "Melina Freitas da Rocha",
+      "Maria Clara de Sousa Medeiros",
+      "Maria Vitória Pedrosa Miranda"
+    ],
+    "orientador": "Tâmyza Rícely de Freitas Alves"
+  },
+  {
+    "id": 12,
+    "titulo": "OS GOLFINHOS DORMINHOCOS",
+    "serie": "1º Ano",
+    "turma": "C",
+    "componentes": [
+      "Isabela Gomes dos Santos",
+      "Arthur Negreiros de Oliveira",
+      "Helena Camile Acioli de Melo"
+    ],
+    "orientador": "Tâmyza Rícely de Freitas Alves"
+  },
+  {
+    "id": 13,
+    "titulo": "OS INVESTIGADORES DO BURACO NEGRO",
+    "serie": "1º Ano",
+    "turma": "C",
+    "componentes": [
+      "Grazielly de Araújo Gama",
+      "Samuel Nobre Gomes Monte de Oliveira",
+      "Filipa Sena de Morais"
+    ],
+    "orientador": "Tâmyza Rícely de Freitas Alves"
+  },
+  {
+    "id": 14,
+    "titulo": "O POLVO E OS SEUS MISTÉRIOS",
+    "serie": "1º Ano",
+    "turma": "C",
+    "componentes": [
+      "Cecília Alcântara Campos Chagas",
+      "Bernardo Rafael de Sá",
+      "Mariana Alves da Costa"
+    ],
+    "orientador": "Tâmyza Rícely de Freitas Alves"
+  },
+  {
+    "id": 15,
+    "titulo": "O ARCO-IRIS E AS CORES MÁGICAS",
+    "serie": "1º Ano",
+    "turma": "C",
+    "componentes": [
+      "Benjamim Alexandre de Noronha Fernandes",
+      "Heloysa Marinho Ferreira Cavalcante"
+    ],
+    "orientador": "Tâmyza Rícely de Freitas Alves"
+  },
+  {
+    "id": 16,
+    "titulo": "A grande força dos vulcões",
+    "serie": "2º Ano",
+    "turma": "A",
+    "componentes": [
+      "Davi Marinho de Medeiros",
+      "João Vitor Fernandes da Silva",
+      "Melissa Morais Almeida"
+    ],
+    "orientador": "Mírian Cristhiane Varela Lobo"
+  },
+  {
+    "id": 17,
+    "titulo": "Furacões: Gigantes tempestades da natureza",
+    "serie": "2º Ano",
+    "turma": "A",
+    "componentes": [
+      "Davi Roberto de Carvalho Araujo",
+      "Enzo Carlos Dantas",
+      "Filipe Samuel da Silva Morai"
+    ],
+    "orientador": "Mírian Cristhiane Varela Lobo"
+  },
+  {
+    "id": 18,
+    "titulo": "A viagem da chuva: Do céu até a Terra",
+    "serie": "2º Ano",
+    "turma": "A",
+    "componentes": [
+      "Pedro Davi da Silva Dantas",
+      "Emanuel Macedo Gentil de Lima"
+    ],
+    "orientador": "Mírian Cristhiane Varela Lobo"
+  },
+  {
+    "id": 19,
+    "titulo": "Os mistérios dos raios",
+    "serie": "2º Ano",
+    "turma": "A",
+    "componentes": [
+      "Giovanna Madalena França Costa",
+      "Giulia Xavier Morais Ávila",
+      "Anthony Sebastian da Costa Lima"
+    ],
+    "orientador": "Mírian Cristhiane Varela Lobo"
+  },
+  {
+    "id": 20,
+    "titulo": "O Sol: A nossa estrela gigante e brilhante",
+    "serie": "2º Ano",
+    "turma": "A",
+    "componentes": [
+      "Gabriel Augusto Feitosa Ferreira da Silva",
+      "Maya Moreira Batista"
+    ],
+    "orientador": "Mírian Cristhiane Varela Lobo"
+  },
+  {
+    "id": 21,
+    "titulo": "Descobrindo do que o Sol é feito",
+    "serie": "2º Ano",
+    "turma": "A",
+    "componentes": [
+      "Dix-Sept Teodoro Bezerra Rosado",
+      "Luís Henrique Carlos Duarte",
+      "Paulo Helmont Gomes de Carvalho"
+    ],
+    "orientador": "Mírian Cristhiane Varela Lobo"
+  },
+  {
+    "id": 22,
+    "titulo": "Impressões Digitais: A Marca que Nos Torna Únicos",
+    "serie": "2º Ano",
+    "turma": "B",
+    "componentes": [
+      "Anny Esther Costa Vale",
+      "Pedro Lucas de Oliveira Rocha",
+      "Théo Ferreira Lima Dantas"
+    ],
+    "orientador": "Prof.ª Tassia Fabriele Sales de Sousa"
+  },
+  {
+    "id": 23,
+    "titulo": "Lava dos Vulcões: O Que Existe Dentro Dela?",
+    "serie": "2º Ano",
+    "turma": "B",
+    "componentes": [
+      "Athena Araújo de Mendonça",
+      "Benício Barreto Queiroz",
+      "Rafael Macedo Gentil de Lima"
+    ],
+    "orientador": "Tássia Fabriele Sales de Sousa"
+  },
+  {
+    "id": 24,
+    "titulo": "O Segredo das Cores do Arco-Íris",
+    "serie": "2º Ano",
+    "turma": "B",
+    "componentes": [
+      "Ágata Guilherme Viana",
+      "Ana Lívia Dantas Lopes",
+      "João Manoel Monteiro Palhano"
+    ],
+    "orientador": "Prof.ª Tassia Fabriele Sales de Sousa"
+  },
+  {
+    "id": 25,
+    "titulo": "O Mistério do Arco-Íris: Por que ele aparece depois da chuva?",
+    "serie": "2º Ano",
+    "turma": "B",
+    "componentes": [
+      "Isabela de Negreiros Medeiros",
+      "João Guilherme da Silva Franco",
+      "Pedro Lucas Bezerra de Andrade Lima"
+    ],
+    "orientador": "Prof.ª Tassia Fabriele Sales de Sousa"
+  },
+  {
+    "id": 26,
+    "titulo": "O Mundo Colorido dos Peixes",
+    "serie": "2º Ano",
+    "turma": "B",
+    "componentes": [
+      "Dávila Letícia Lima Braga",
+      "Maria Luísa de Oliveira Andrade",
+      "Murilo Gurjão Pinheiro"
+    ],
+    "orientador": "Prof.ª Tassia Fabriele Sales de Sousa"
+  },
+  {
+    "id": 27,
+    "titulo": "A Incrível Viagem do Sangue pelo Nosso Corpo",
+    "serie": "2º Ano",
+    "turma": "B",
+    "componentes": [
+      "Arthur Maximus Silveira Costa",
+      "Gael Arthur Maia e Silva",
+      "Lis Lima Fausto de Medeiros"
+    ],
+    "orientador": "Professora: Tássia Fabriele Sales de Sousa"
+  },
+  {
+    "id": 28,
+    "titulo": "A Grande Viagem pelo Sistema Solar",
+    "serie": "2º Ano",
+    "turma": "B",
+    "componentes": [
+      "Alice Vieira Conceição",
+      "Maitê Alves de Queiroz"
+    ],
+    "orientador": "Prof.ª Tássia Fabriele Sales de Sousa"
+  },
+  {
+    "id": 29,
+    "titulo": "Máquinas que pensam: como funcionam os robôs?",
+    "serie": "2º Ano",
+    "turma": "C",
+    "componentes": [
+      "Benício de Sousa Melo",
+      "Liz Araújo Duarte",
+      "Melina Siqueira Araújo Duarte"
+    ],
+    "orientador": "Daniela  Gama Pinheiro"
+  },
+  {
+    "id": 30,
+    "titulo": "O Sol por dentro: conhecendo os seus segredos",
+    "serie": "2º Ano",
+    "turma": "C",
+    "componentes": [
+      "Benjamim Arenhart Formiga de Sousa",
+      "Maria Luiza Carvalho Diógenes",
+      "Pedro Ramon Pereira Sampaio"
+    ],
+    "orientador": "Daniela  Gama Pinheiro"
+  },
+  {
+    "id": 31,
+    "titulo": "A dança dos planetas: entendendo os movimentos no Sistema Solar",
+    "serie": "2º Ano",
+    "turma": "C",
+    "componentes": [
+      "Lorenzo Barbosa Queiroz de Saboya",
+      "Maike Jeronimo Duarte",
+      "Christian Ravih Galdino Gomes"
+    ],
+    "orientador": "Daniela  Gama Pinheiro"
+  },
+  {
+    "id": 32,
+    "titulo": "Exploradores de espaço: descobrindo a distância entre os planetas Terra e Plutão",
+    "serie": "2º Ano",
+    "turma": "C",
+    "componentes": [
+      "Ana Clara Pinto Souza",
+      "Heitor Menezes Formiga de Souza",
+      "Maria Cidrak Duarte"
+    ],
+    "orientador": "Daniela  Gama Pinheiro"
+  },
+  {
+    "id": 33,
+    "titulo": "Será que estamos sozinhos? A busca por vida em outros planetas.",
+    "serie": "2º Ano",
+    "turma": "C",
+    "componentes": [
+      "Maria Eduarda Morais de Andrade",
+      "Maria Helena Lucas Linhares do Nascimento",
+      "Otto Champagnat Moura Cardoso"
+    ],
+    "orientador": "Daniela  Gama Pinheiro"
+  },
+  {
+    "id": 34,
+    "titulo": "O sol: o grande astro do nosso sistema",
+    "serie": "2º Ano",
+    "turma": "C",
+    "componentes": [
+      "Lívia Karyse Marques Guimarães",
+      "Maria Cecília G. Barros",
+      "Rafael Abdon de Paula Dantas"
+    ],
+    "orientador": "Daniela  Gama Pinheiro"
+  },
+  {
+    "id": 35,
+    "titulo": "Construções inteligentes: decobrindo as vantages dos EPS",
+    "serie": "2º Ano",
+    "turma": "C",
+    "componentes": [
+      "Eloá Aisha Duarte Angelo",
+      "Lissa Rodrigues Maciel",
+      "Luiza Araújo Duarte"
+    ],
+    "orientador": "Daniela  Gama Pinheiro"
+  },
+  {
+    "id": 36,
+    "titulo": "A EXISTÊNCIA DAS DOENÇAS",
+    "serie": "3º Ano",
+    "turma": "A",
+    "componentes": [
+      "João Guilherme de Oliveira Rocha",
+      "Marina de Medeiros Queiroz",
+      "Tayná Cardoso da Mata Lacerda"
+    ],
+    "orientador": "Maria do Carmo de Oliveira Martins"
+  },
+  {
+    "id": 37,
+    "titulo": "O CENTRO DA TERRA: ESTRUTURA, COMPOSIÇÃO E CARACTERÍSTICAS",
+    "serie": "3º Ano",
+    "turma": "A",
+    "componentes": [
+      "Arthur Davi de Medeiros Alves",
+      "João Gabriel Delfino Fernandes Cunha",
+      "Theo de Freitas Barbosa"
+    ],
+    "orientador": "Maria do Carmo de Oliveira Martins"
+  },
+  {
+    "id": 38,
+    "titulo": "A GRAVIDADE: A FORÇA QUE MANTÉM TUDO NO LUGAR",
+    "serie": "3º Ano",
+    "turma": "A",
+    "componentes": [
+      "Anna Cecília Guimarães de Freitas",
+      "Maria Luiza Fernandes Frota"
+    ],
+    "orientador": "Maria do Carmo de Oliveira Martins"
+  },
+  {
+    "id": 39,
+    "titulo": "A CHEGADA DA ELETRICIDADE NO BRASIL",
+    "serie": "3º Ano",
+    "turma": "A",
+    "componentes": [
+      "Diógenes Fernandes Leite",
+      "Lucas Mendes Azevedo",
+      "Mateus Ferreira Silva"
+    ],
+    "orientador": "Maria do Carmo de Oliveira Martins"
+  },
+  {
+    "id": 40,
+    "titulo": "A RESISTÊNCIA DO CASCO DO TATU-BOLA.",
+    "serie": "3º Ano",
+    "turma": "A",
+    "componentes": [
+      "Maria Helena Lopes Torres de Oliveira",
+      "Íris Germano Trindade",
+      "Pedro Arthur Passos de Morais"
+    ],
+    "orientador": "Maria do Carmo de Oliveira Martins"
+  },
+  {
+    "id": 41,
+    "titulo": "A COR AZUL DO CÉU",
+    "serie": "3º Ano",
+    "turma": "A",
+    "componentes": [
+      "Heitor Alves Filgueira",
+      "Maria Elisa Granjeiro de Oliveira",
+      "Rodrigo Alves Fernandes"
+    ],
+    "orientador": "Maria do Carmo de Olivira Martins"
+  },
+  {
+    "id": 42,
+    "titulo": "A importância das plantas e o processo da fotossíntese",
+    "serie": "3º Ano",
+    "turma": "A",
+    "componentes": [
+      "Alice Studart Mendonça",
+      "Gabriel de Oliveira Carvalho"
+    ],
+    "orientador": "Maria do Carmo de Oliveira Martins"
+  },
+  {
+    "id": 43,
+    "titulo": "A Fabricação dos Metais: Etapas e Transformações",
+    "serie": "3º Ano",
+    "turma": "A",
+    "componentes": [
+      "Marcelo Escóssia de Azevêdo Gomes",
+      "Marina Mendonça Araujo",
+      "Théo Renovato Florêncio da Silva"
+    ],
+    "orientador": "Maria do Carmo de Oliveira Martins"
+  },
+  {
+    "id": 44,
+    "titulo": "O sol: fonte de luz e energia a vida",
+    "serie": "3º Ano",
+    "turma": "B",
+    "componentes": [
+      "Alice Bezerra Martins",
+      "Arthur Gurgel de Sousa",
+      "João Miguel Pereira Duarte"
+    ],
+    "orientador": "Alyne Sousa Lima"
+  },
+  {
+    "id": 45,
+    "titulo": "A linguagem dos animais: eles realmente não falam?",
+    "serie": "3º Ano",
+    "turma": "B",
+    "componentes": [
+      "Fernanda Gabriela Ferreira Carvalho",
+      "Valentina Bernardino Vieira",
+      "Fábio Lohan Rezende Dias Andrade"
+    ],
+    "orientador": "Alyne Sousa Lima"
+  },
+  {
+    "id": 46,
+    "titulo": "Descobrindo a Formação da Eletricidade",
+    "serie": "3º Ano",
+    "turma": "B",
+    "componentes": [
+      "Davi Albuquerque Ferreira",
+      "Artur Cavalcante Leite",
+      "Eric Araújo dos Santos"
+    ],
+    "orientador": "Alyne Sousa Lima"
+  },
+  {
+    "id": 47,
+    "titulo": "Quando os alimentos fazem mal: entendendo a intolerância alimentar",
+    "serie": "3º Ano",
+    "turma": "B",
+    "componentes": [
+      "Pedro Emanuel Pereira Rebouças",
+      "Maressa Araújo Almeida",
+      "José Mateus Vieira Leão"
+    ],
+    "orientador": "Alyne Sousa Lima"
+  },
+  {
+    "id": 48,
+    "titulo": "A História dos Números: Da Contagem ao Infinito",
+    "serie": "3º Ano",
+    "turma": "B",
+    "componentes": [
+      "Lavínia Lis Dutra Bezerra Targino",
+      "Letícia Gomes Mourato",
+      "Benjamin Silva Saldanha da Câmara"
+    ],
+    "orientador": "Alyne Sousa Lima"
+  },
+  {
+    "id": 49,
+    "titulo": "Descobrindo a Radiação e Seus Efeitos no Dia a Dia",
+    "serie": "3º Ano",
+    "turma": "B",
+    "componentes": [
+      "Heitor Carlos Teixeira Dantas",
+      "João Guilherme de Lima Souza",
+      "Miguel Reginaldo Cavalcanti de Lima"
+    ],
+    "orientador": "Alyne Sousa Lima"
+  },
+  {
+    "id": 50,
+    "titulo": "Animais em extinção",
+    "serie": "3º Ano",
+    "turma": "C",
+    "componentes": [
+      "João Miguel Nobre Forte",
+      "Maria Flor de Lima Mousinho",
+      "Maria Esther de Carvalho R. Costa"
+    ],
+    "orientador": "Thatyany Alves Fernandes de Araújo"
+  },
+  {
+    "id": 51,
+    "titulo": "A Ciência por Trás dos Videogames",
+    "serie": "3º Ano",
+    "turma": "C",
+    "componentes": [
+      "Luís Miguel Carvalho Cardoso",
+      "Bernardo de Souza Melo Ana Valentina Rabelo"
+    ],
+    "orientador": "Thatyany Alves Fernandes de Araújo"
+  },
+  {
+    "id": 52,
+    "titulo": "Dinossauro",
+    "serie": "3º Ano",
+    "turma": "C",
+    "componentes": [
+      "Charles Davi do Nascimento Oliveira"
+    ],
+    "orientador": "Thatyany Alves Fernandes de Araújo"
+  },
+  {
+    "id": 53,
+    "titulo": "CASA SUSTENTÁVEL DO FUTURO",
+    "serie": "3º Ano",
+    "turma": "C",
+    "componentes": [
+      "Heitor Almeida Alves",
+      "João Pedro Oliveira de Medeiros",
+      "Maria Elis de Lira Chaves"
+    ],
+    "orientador": "Thatyany Alves Fernandes de Araujo"
+  },
+  {
+    "id": 54,
+    "titulo": "DETECTOR DE EMOÇÕES POR EXPRESSÃO FACIAL: UTILIZANDO INTELIGÊNCIA ARTIFICIAL PARA RECONHECER SENTIMENTOS.",
+    "serie": "3º Ano",
+    "turma": "C",
+    "componentes": [
+      "Melissa Jerônimo Duarte João Lucas Sales de Almeida"
+    ],
+    "orientador": "Thatyany Fernandes"
+  },
+  {
+    "id": 55,
+    "titulo": "O crescimento dos músculos",
+    "serie": "3º Ano",
+    "turma": "D",
+    "componentes": [
+      "João Pedro Gomes Dos Santos",
+      "José Heitor Cidrack Duarte"
+    ],
+    "orientador": "Mírian Cristhiane Varela Lobo"
+  },
+  {
+    "id": 56,
+    "titulo": "A Lua e o seu brilho: Entendendo a luz lunar",
+    "serie": "3º Ano",
+    "turma": "D",
+    "componentes": [
+      "Heitor Filgueira Dantas",
+      "Mariah Oliveira Dantas",
+      "Rodrigo Edeniê Rebouças de Albuquerque Filho"
+    ],
+    "orientador": "Mírian Cristhiane Varela Lobo"
+  },
+  {
+    "id": 57,
+    "titulo": "Constelações: Os mapas do céu dos povos antigos",
+    "serie": "3º Ano",
+    "turma": "D",
+    "componentes": [
+      "Débora Vitória Costa Mendes",
+      "Paula Luiza Gadelha Ramos",
+      "Thomas Bedran Martins"
+    ],
+    "orientador": "Mírian Cristhiane Varela Lobo"
+  },
+  {
+    "id": 58,
+    "titulo": "Meteoros: As estrelas cadentes do céu",
+    "serie": "3º Ano",
+    "turma": "D",
+    "componentes": [
+      "Emmanuel Marinho de Siqueira Silva",
+      "Miguel Carvalho Alves Arrais",
+      "Júlia Filqueira Sena Maia"
+    ],
+    "orientador": "Mírian Cristhiane Varela Lobo"
+  },
+  {
+    "id": 59,
+    "titulo": "A decomposição de animais e sua importância no ciclo da vida",
+    "serie": "3º Ano",
+    "turma": "D",
+    "componentes": [
+      "Anny Luiza Herculano Justen",
+      "João Henrique de Medeiros Bezerra",
+      "Maria Esther Mendonça da Costa"
+    ],
+    "orientador": "Mírian Cristhiane Varela Lobo"
+  },
+  {
+    "id": 60,
+    "titulo": "Explorando o Universo: a ciência por trás da formação das estrelas",
+    "serie": "4º Ano",
+    "turma": "A",
+    "componentes": [
+      "Arthur César de Morais Carneiro Alves",
+      "Luiz Henrique Germano Neo"
+    ],
+    "orientador": "Ana Paula de Freitas"
+  },
+  {
+    "id": 61,
+    "titulo": "A ciência da iluminação: construindo uma lâmpada alternativa",
+    "serie": "4º Ano",
+    "turma": "A",
+    "componentes": [
+      "Nicolas Alexandre de Oliveira Costa",
+      "Leticia Gabriely Mendez Braz",
+      "Luiz Eduardo Oliveira Hipólito"
+    ],
+    "orientador": "Ana Paula de Freitas"
+  },
+  {
+    "id": 62,
+    "titulo": "O motor do corpo humano: como o coração trabalha ?",
+    "serie": "4º Ano",
+    "turma": "A",
+    "componentes": [
+      "Lucca Lorran Castro de Oliveira",
+      "Pedro Romão Pinto Sampaio"
+    ],
+    "orientador": "Ana Paula de Freitas"
+  },
+  {
+    "id": 63,
+    "titulo": "O caminho do papel: da natureza às nossas mãos",
+    "serie": "4º Ano",
+    "turma": "A",
+    "componentes": [
+      "Giovanna Maria Macena de Oliveira",
+      "Thiago Tawan Santos de Souza"
+    ],
+    "orientador": "Ana Paula de Freitas"
+  },
+  {
+    "id": 64,
+    "titulo": "“Miau” e ciência: entendendo a comunicação dos felinos",
+    "serie": "4º Ano",
+    "turma": "A",
+    "componentes": [
+      "Maria Cecília Lopes da Costa",
+      "Vitor Faustino Torres Dantas"
+    ],
+    "orientador": "Ana Paula de Freitas"
+  },
+  {
+    "id": 65,
+    "titulo": "Os meteoros",
+    "serie": "4º Ano",
+    "turma": "B",
+    "componentes": [
+      "Arthur Silva Saldanha da Câmara",
+      "Messias Gabriel Praxedes Mota",
+      "Pedro Gabriel Nunes Dantas."
+    ],
+    "orientador": "Thatyany Alves Fernandes"
+  },
+  {
+    "id": 66,
+    "titulo": "dO QUE O FOGO É FEITO?",
+    "serie": "4º Ano",
+    "turma": "B",
+    "componentes": [
+      "Maria Valentina",
+      "Lucas Bartels Cabral e Júlia Germana"
+    ],
+    "orientador": "Thatyany Alves Fernandes"
+  },
+  {
+    "id": 67,
+    "titulo": "Desastre naturais: Forças que moldam a terra",
+    "serie": "4º Ano",
+    "turma": "B",
+    "componentes": [
+      "Davi Rodrigues Leite",
+      "Sophia Lais Maia",
+      "Heito Ferreira Paiva"
+    ],
+    "orientador": "Thatyany Alves Fernandes"
+  },
+  {
+    "id": 68,
+    "titulo": "A GRAVIDADE: A DESCOBERTA DE ISAAC NEWTON",
+    "serie": "4º Ano",
+    "turma": "B",
+    "componentes": [
+      "Anna Liz de Andrade Lima",
+      "Maria Cláudia Pereira",
+      "Heitor Lima de Azevedo"
+    ],
+    "orientador": "Thatyany Alves Fernandes"
+  },
+  {
+    "id": 69,
+    "titulo": "Energias renováveis: Solar, Eólica e Hidrelétrica",
+    "serie": "4º Ano",
+    "turma": "B",
+    "componentes": [
+      "Christian Sebastian",
+      "Heitor Diomedes Rosado Diniz",
+      "Pietro Gabriel Amâncio"
+    ],
+    "orientador": "Thatyany Alves Fernandes"
+  },
+  {
+    "id": 70,
+    "titulo": "Como as estrelas vivem?",
+    "serie": "4º Ano",
+    "turma": "C",
+    "componentes": [
+      "Alice Beatriz de Oliveira Linhares",
+      "Alice de Oliveira Melo",
+      "Esther Maria Amaral Alves"
+    ],
+    "orientador": "Lizandra Régia Alves"
+  },
+  {
+    "id": 71,
+    "titulo": "Como funciona o trem-bala?",
+    "serie": "4º Ano",
+    "turma": "C",
+    "componentes": [
+      "Bernardo Véras Nunes",
+      "Paulo Henrique Ferreira Aguiar",
+      "Lucas Benício Nascimento Veras"
+    ],
+    "orientador": "Lizandra Régia Alves"
+  },
+  {
+    "id": 72,
+    "titulo": "O maior acidente radioativo da história, suas consequências e como evitar novos acidentes",
+    "serie": "4º Ano",
+    "turma": "C",
+    "componentes": [
+      "Álvaro Mendonça da Costa",
+      "Theo Limeira de Oliveira",
+      "Theandro de Freitas Rêgo Filho"
+    ],
+    "orientador": "Lizandra Régia Alves"
+  },
+  {
+    "id": 73,
+    "titulo": "Como o vento é formado e qual é a sua importância para o meio ambiente e para a vida das pessoas",
+    "serie": "4º Ano",
+    "turma": "C",
+    "componentes": [
+      "Luis Miguel Lessa Lemos",
+      "Maria Fernanda dos Santos de Santana",
+      "Júlia Cecília Queiroz Bessa"
+    ],
+    "orientador": "Lizandra Régia Alves"
+  },
+  {
+    "id": 74,
+    "titulo": "Farmácia Viva: como a natureza cura?",
+    "serie": "4º Ano",
+    "turma": "C",
+    "componentes": [
+      "Saul Nobre Gomes de Oliveira",
+      "Heytor Marinho Ferreira Cavalcante",
+      "Yure Sávio Felix Câmara"
+    ],
+    "orientador": "Lizandra Régia Alves"
+  },
+  {
+    "id": 75,
+    "titulo": "Como ocorreu a formação do Sol e da Lua no Sistema Solar",
+    "serie": "4º Ano",
+    "turma": "C",
+    "componentes": [
+      "Ana Júlia Rodrigues de Oliveira",
+      "Helena Cavalcante Oliveira"
+    ],
+    "orientador": "Lizandra Régia Alves"
+  },
+  {
+    "id": 76,
+    "titulo": "INQUEBRÁVEL: COMO A ENGENHARIA PROTEGE AS PESSOAS DEBAIXO DA TERRA",
+    "serie": "5º Ano",
+    "turma": "A",
+    "componentes": [
+      "Ana Laura Carlos Dias",
+      "Lucas Santana de Moura",
+      "Stela Liz Brito De Medeiros"
+    ],
+    "orientador": "Maiara Batista de Sousa"
+  },
+  {
+    "id": 77,
+    "titulo": "OLHOS DE PREDADOR: COMO A ONÇA-PINTADA ENXERGA NO ESCURO?",
+    "serie": "5º Ano",
+    "turma": "A",
+    "componentes": [
+      "Guilherme Aguiar Ellery",
+      "Maria Cecília Souza Amorim",
+      "Maria Julia Praxedes Costa"
+    ],
+    "orientador": "Maiara Batista de Sousa"
+  },
+  {
+    "id": 78,
+    "titulo": "SEM CASA, SEM VIDA: OS IMPACTOS DO DESMATAMENTO NA VIDA ANIMAL",
+    "serie": "5º Ano",
+    "turma": "A",
+    "componentes": [
+      "Ana Luíza de Medeiros Avelino",
+      "Maria Fernanda Delfino Fernandes e Cunha",
+      "Sofia Gonçalves Sampaio Pinheiro Pereira"
+    ],
+    "orientador": "Maiara Batista de Sousa"
+  },
+  {
+    "id": 79,
+    "titulo": "CARGAS EM CHOQUE: COMO NASCEM OS RAIOS?",
+    "serie": "5º Ano",
+    "turma": "A",
+    "componentes": [
+      "Benicio Lucas Nunes Jeronimo",
+      "Bernardo Filgueira Jardim"
+    ],
+    "orientador": "Maiara Batista de Sousa"
+  },
+  {
+    "id": 80,
+    "titulo": "COMANDANTE CÉREBRO: COMO A VISÃO LIGA A NOSSA MÁQUINA DE PENSAR",
+    "serie": "5º Ano",
+    "turma": "A",
+    "componentes": [
+      "Dhiego Samuel Amaro Carvalho",
+      "Davi Wamberto Brito",
+      "Samuel Gideão da Costa Junior"
+    ],
+    "orientador": "Maiara Batista de Sousa"
+  },
+  {
+    "id": 81,
+    "titulo": "DO SATÉLITE AO ROTEADOR: COMO A INTERNET CHEGA ATÉ NÓS?",
+    "serie": "5º Ano",
+    "turma": "A",
+    "componentes": [
+      "Dominique Amorim Mendes Fernandes",
+      "Jamylle Maira Bezerra do Vale",
+      "José Davi Campelo Paiva"
+    ],
+    "orientador": "Maiara Batista de Sousa"
+  },
+  {
+    "id": 82,
+    "titulo": "MISSÃO MARTE: O DESAFIO DA TEMPERATURA",
+    "serie": "5º Ano",
+    "turma": "A",
+    "componentes": [
+      "Ednardo Benigno de Moura Neto",
+      "João Lucas Fernandes Granjeiro",
+      "Melissa Alves"
+    ],
+    "orientador": "Maiara Batista de Sousa"
+  },
+  {
+    "id": 83,
+    "titulo": "INTELIGÊNCIA ARTIFICIAL NA MEDICINA: É POSSÍVEL SUGERIR DOENÇAS APENAS PELA ANÁLISE DOS SINTOMAS?",
+    "serie": "5º Ano",
+    "turma": "A",
+    "componentes": [
+      "Alice Camacho Renner de Araujo",
+      "Mariana Oliveira Leite Frota"
+    ],
+    "orientador": "Maiara Batista de Sousa"
+  },
+  {
+    "id": 84,
+    "titulo": "Um pouco mais sobre o Césio-137",
+    "serie": "5º Ano",
+    "turma": "B",
+    "componentes": [
+      "Yure Sinésio Vitalino da Silva",
+      "Helena Gurgel de Castro Alves",
+      "Lucas Albuquerque Ferreira"
+    ],
+    "orientador": "Lizandra Régia Alves"
+  },
+  {
+    "id": 85,
+    "titulo": "Existe possibilidade de vida em outros planetas? Quais evidências os cientistas utilizam para investigar essa hipótese?",
+    "serie": "5º Ano",
+    "turma": "B",
+    "componentes": [
+      "Maria Júlia Fonseca Matias",
+      "Bernardo Medeiros Queiroz",
+      "Giovana Alves de Moura"
+    ],
+    "orientador": "Lizandra Régia Alves"
+  },
+  {
+    "id": 86,
+    "titulo": "Buraco Negro",
+    "serie": "5º Ano",
+    "turma": "B",
+    "componentes": [
+      "Guilherme Rodrigues Barros",
+      "Lara Maia de Oliveira",
+      "Pedro Augusto de Paula Fernandes"
+    ],
+    "orientador": "Lizandra Régia Alves"
+  },
+  {
+    "id": 87,
+    "titulo": "Ilusões de Ótica",
+    "serie": "5º Ano",
+    "turma": "B",
+    "componentes": [
+      "Sophia Louise Apolinário Cruz",
+      "Júlia Carvalho Nogueira",
+      "Geovana Fernandes Dantas de Paula"
+    ],
+    "orientador": "Lizandra Régia Alves"
+  },
+  {
+    "id": 88,
+    "titulo": "As abelhas e o mel",
+    "serie": "5º Ano",
+    "turma": "O",
+    "componentes": [
+      "Fernando Fernandes de Queiroz Filho",
+      "Maitê Martins de Almeida Linhares",
+      "Ana Letícia Fernandes Falcão Barros"
+    ],
+    "orientador": "Lizandra Régia Alves"
+  },
+  {
+    "id": 89,
+    "titulo": "Como o atrito entre as pedras pode produzir fogo?",
+    "serie": "5º Ano",
+    "turma": "B",
+    "componentes": [
+      "Antônio Inácio de Azevedo Neto",
+      "João Bernardo Souza"
+    ],
+    "orientador": "Lizandra Régia Alves"
+  },
+  {
+    "id": 90,
+    "titulo": "Gravidade",
+    "serie": "5º Ano",
+    "turma": "B",
+    "componentes": [
+      "Gustavo Dantas de Queiroz",
+      "José Felipe Rebouças Fernandes",
+      "Theo Mendonça Santiago"
+    ],
+    "orientador": "Lizandra Régia Alves"
+  },
+  {
+    "id": 91,
+    "titulo": "O que foi a Guerra Fria e quais foram as suas consequências",
+    "serie": "5º Ano",
+    "turma": "B",
+    "componentes": [
+      "Alice Liz de Medeiros Alves",
+      "Pedro Henrique Pinto de Freitas",
+      "Alicia Oliveira Pessoa Menezes"
+    ],
+    "orientador": "Lizandra Régia Alves"
+  },
+  {
+    "id": 92,
+    "titulo": "A criação das galáxias",
+    "serie": "5º Ano",
+    "turma": "B",
+    "componentes": [
+      "Loani Sophia Negreiros Rocha",
+      "Pedro Gabriel Carlos Duarte"
+    ],
+    "orientador": "Lizandra Régia Alves"
+  },
+  {
+    "id": 93,
+    "titulo": "Césio 137: A ciência por trás do brilho azul",
+    "serie": "5º Ano",
+    "turma": "C",
+    "componentes": [
+      "Guilherme de Araújo Gama",
+      "Maria Caroline Carvalho Silva",
+      "Maria Clara Passalacqua"
+    ],
+    "orientador": "Ana Paula de Freitas"
+  },
+  {
+    "id": 94,
+    "titulo": "Mistérios do universo: a vida extraterrestre",
+    "serie": "5º Ano",
+    "turma": "C",
+    "componentes": [
+      "Caio Delano Martins Negreiros",
+      "Marina Fernandes de Araújo",
+      "Vinicius Almeida Torres"
+    ],
+    "orientador": "Ana Paula de Freitas"
+  },
+  {
+    "id": 95,
+    "titulo": "Os impactos das bombas atômicas na história",
+    "serie": "5º Ano",
+    "turma": "C",
+    "componentes": [
+      "Joaquim Souza Marcelino de Lima",
+      "Maria Cecília Costa Francelino"
+    ],
+    "orientador": "Ana Paula de Freitas"
+  },
+  {
+    "id": 96,
+    "titulo": "Vida na Lua: Mito ou Realidade — O Impacto da Baixa Gravidade Lunar no Corpo Humano",
+    "serie": "5º Ano",
+    "turma": "D",
+    "componentes": [
+      "Antonio Simão de Mendonça Oliveira Neto",
+      "Theo Salgado Gonçalves",
+      "William Fernandes Nogueira"
+    ],
+    "orientador": "Maiara Batista de Sousa"
+  },
+  {
+    "id": 97,
+    "titulo": "COMO NASCEM OS RAIOS: A CIÊNCIA POR TRÁS DOS RELÂMPAGOS",
+    "serie": "5º Ano",
+    "turma": "D",
+    "componentes": [
+      "Dante Salgado Gonçalves",
+      "Gilmar Henrique Seminario Morais",
+      "Pedro Lucas Alves de Souza"
+    ],
+    "orientador": "Maiara Batista de Sousa"
+  },
+  {
+    "id": 98,
+    "titulo": "O Impacto do uso excessivo de telas no nosso cérebro",
+    "serie": "6º Ano",
+    "turma": "A",
+    "componentes": [
+      "Joao Guilherme Rodrigues dos Santos. Sofia Ramos pantoja. Maria Alice porfirio da Silva"
+    ],
+    "orientador": "Rodolfo Rafael pascoal da penha"
+  },
+  {
+    "id": 99,
+    "titulo": "Vacinas e Prevenção de Doenças",
+    "serie": "6º Ano",
+    "turma": "A",
+    "componentes": [
+      "Regina",
+      "Bernardo e Laryssa"
+    ],
+    "orientador": "Rodolfo Rafael Pascoal da Penha"
+  },
+  {
+    "id": 100,
+    "titulo": "CARREGANDO A BATERIA DA MENTE",
+    "serie": "6º Ano",
+    "turma": "A",
+    "componentes": [
+      "Otávio Rosado Paiva Diniz",
+      "Álvaro Miguel Souza de Carvalho Aquino e João pedro Carlos de Araújo Pinto"
+    ],
+    "orientador": "Rodolfo Rafael Pascoal da Penha"
+  },
+  {
+    "id": 101,
+    "titulo": "Eficiência de diferentes métodos de filtragem da água",
+    "serie": "6º Ano",
+    "turma": "A",
+    "componentes": [
+      "Lemuel paulo",
+      "Enzo",
+      "Maria Clara e Maria Júlia"
+    ],
+    "orientador": "Rodolfo Rafael pascal da penha"
+  },
+  {
+    "id": 102,
+    "titulo": "Energia renováveis e não renováveis: a importância das fontes de energia para o futuro do planeta",
+    "serie": "6º Ano",
+    "turma": "A",
+    "componentes": [
+      "Letícia Bessa dos Santos.",
+      "Maria Vitória de Souza",
+      "Olímpio santos",
+      "Aurélio Gomes da silva terceiro"
+    ],
+    "orientador": "Rodolfo rafael"
+  },
+  {
+    "id": 103,
+    "titulo": "O SOLO E A FILTRAGEM DA ÁGUA DOS AQUIFEROS",
+    "serie": "6º Ano",
+    "turma": "A",
+    "componentes": [
+      "Otávio rosado Lamartine correia",
+      "Murilo Figueiredo Gurgel",
+      "Júlia Mendes e Heloise Domingos"
+    ],
+    "orientador": "Rodolfo Rafael Pascoal da Penha"
+  },
+  {
+    "id": 104,
+    "titulo": "Enxergando as cores de forma diferente: entendendo sobre daltonismo",
+    "serie": "6º Ano",
+    "turma": "A",
+    "componentes": [
+      "Beatriz Frota",
+      "Lara Lorna",
+      "Pedro Valentin e Maria Victoria"
+    ],
+    "orientador": "Rodolfo Rafael"
+  },
+  {
+    "id": 105,
+    "titulo": "Quem inventou a matemática",
+    "serie": "6º Ano",
+    "turma": "B",
+    "componentes": [
+      "Mateus Benício",
+      "Maria Eduarda",
+      "Melina Beatriz"
+    ],
+    "orientador": "Rodolfo"
+  },
+  {
+    "id": 106,
+    "titulo": "CÉREBRO, O COMANDANTE DO SEU CORPO: COMO ELE FUNCIONA?",
+    "serie": "6º Ano",
+    "turma": "B",
+    "componentes": [
+      "DANILO SILVÉRIO FAUSTINO FERNANDES",
+      "DAVI JABES SOUSA NASCIMENTO",
+      "EMILY ROBERTA DOS SANTOS SILVA"
+    ],
+    "orientador": "RODOLFO"
+  },
+  {
+    "id": 107,
+    "titulo": "A CELULA É UMA CIDADE",
+    "serie": "6º Ano",
+    "turma": "B",
+    "componentes": [
+      "MARIA ESTER BORGES",
+      "LEONARDO",
+      "PIETRO"
+    ],
+    "orientador": "RODOLFO E KELLY"
+  },
+  {
+    "id": 108,
+    "titulo": "Os benefícios dos lactobacilos para os seres humanos",
+    "serie": "6º Ano",
+    "turma": "B",
+    "componentes": [
+      "Kauan lucas Diogenes Veríssimo",
+      "Lucas Guilherme Apolinário Ortiz",
+      "Maria Valentina filgueira Dantas"
+    ],
+    "orientador": "Rodolfo e Washington"
+  },
+  {
+    "id": 109,
+    "titulo": "Incrível Mente: Como o cérebro engana nossos olhos.",
+    "serie": "6º Ano",
+    "turma": "B",
+    "componentes": [
+      "Artur Moura do Rego Lima e Gabriel Lopes de Miranda Melo"
+    ],
+    "orientador": "Orientador: Rodolfo e Co-orientador Lima Neto"
+  },
+  {
+    "id": 110,
+    "titulo": "Como construir um filtro sustentável",
+    "serie": "6º Ano",
+    "turma": "B",
+    "componentes": [
+      "Raul Faustino",
+      "Lucas Heitor e Davi Lucca"
+    ],
+    "orientador": "Washington e Rodolfo"
+  },
+  {
+    "id": 111,
+    "titulo": "Demências: conhecer para conviver",
+    "serie": "6º Ano",
+    "turma": "B",
+    "componentes": [
+      "Stella Maria Macena Oliveira"
+    ],
+    "orientador": "Rodolfo Rafael"
+  },
+  {
+    "id": 112,
+    "titulo": "Além do Braile: Desenvolvimento de um Cardápio Gastronômico Tridimensional para Inclusão de Pessoas com Deficiência Visual",
+    "serie": "7º Ano",
+    "turma": "A",
+    "componentes": [
+      "Guilherme de Carvalho Azevedo",
+      "Heitor Fully Martins e Saymon Miguel Alves da Costa"
+    ],
+    "orientador": "Andreia Bezerra Dos Santos"
+  },
+  {
+    "id": 113,
+    "titulo": "Como acontece o engasgo?",
+    "serie": "7º Ano",
+    "turma": "A",
+    "componentes": [
+      "Alice Pinheiro Soares",
+      "Maria Clara Queiroz da Costa",
+      "Eva Silva Gonçalves",
+      "Letícia Ferreira Pinheiro e Arthur arnom"
+    ],
+    "orientador": "Andreia Bezerra Dos Santos"
+  },
+  {
+    "id": 114,
+    "titulo": "Platão: Planeta ou Planeta Anão",
+    "serie": "7º Ano",
+    "turma": "A",
+    "componentes": [
+      "Matheus Elmano",
+      "Jose Eduardo",
+      "José Izidio e Theo Lacerda"
+    ],
+    "orientador": "Andrea Bezerra dos Santos"
+  },
+  {
+    "id": 115,
+    "titulo": "O acidente radiológico de goiânia/ césio 137",
+    "serie": "7º Ano",
+    "turma": "A",
+    "componentes": [
+      "Matheus Elmano",
+      "Jose Eduardo",
+      "José Izidio e Theo Lacerda"
+    ],
+    "orientador": "Andrea Bezerra dos Santos"
+  },
+  {
+    "id": 116,
+    "titulo": "em anexo",
+    "serie": "7º Ano",
+    "turma": "A",
+    "componentes": [
+      "Sofia",
+      "Alicia e |Caroline"
+    ],
+    "orientador": "Andrea Bezerra dos Santos"
+  },
+  {
+    "id": 117,
+    "titulo": "A vida dos lagartos: o que aconteceria se os lagartos desaparecessem",
+    "serie": "7º Ano",
+    "turma": "B",
+    "componentes": [
+      "Daniel Hiugo Costa de Oliveira Filho",
+      "Miguel Dias de Sá e Moroni Filho"
+    ],
+    "orientador": "Maria de Fátima"
+  },
+  {
+    "id": 118,
+    "titulo": "O combate a dengue",
+    "serie": "7º Ano",
+    "turma": "B",
+    "componentes": [
+      "MARIA CLARA ALVES XAVIER",
+      "MARIA ALICE GRANJEIRO DE OLIVEIRA",
+      "MARIA CLARA DE OLIVEIRA SOUZA",
+      "MARIA LUIZA DA SILVA FRANCO"
+    ],
+    "orientador": "Andrea Bezerra dos Santos"
+  },
+  {
+    "id": 119,
+    "titulo": "Vídeos curtos e as suas consequências",
+    "serie": "7º Ano",
+    "turma": "B",
+    "componentes": [
+      "Carlos Emanoel Maia Fontes Cavalcante",
+      "Jarede de Oliveira Ferreira",
+      "João Pedro Filgueira Jardim",
+      "Paulo Arthur da Silva Pereira"
+    ],
+    "orientador": "Andrea Bezerra dos Santos"
+  },
+  {
+    "id": 120,
+    "titulo": "Como o aquecimento global afeta a vida marinha no ártico?",
+    "serie": "7º Ano",
+    "turma": "B",
+    "componentes": [
+      "Daniel Manuel Engoavil Lhanos",
+      "Felipe Bezerra Martins",
+      "Pedro Isaac Araújo M. Silva",
+      "Richardson Eliel Souza"
+    ],
+    "orientador": "Andrea Bezerra dos Santos"
+  },
+  {
+    "id": 121,
+    "titulo": "Colorindo a sustentabilidade (BIOPLÁSTICOS)",
+    "serie": "7º Ano",
+    "turma": "B",
+    "componentes": [
+      "Ana Júlia",
+      "Sofia Freire",
+      "Mariana Palhano."
+    ],
+    "orientador": "Andrea Bezerra dos Santos"
+  },
+  {
+    "id": 122,
+    "titulo": "Patrulha canina: Da rua até um lar",
+    "serie": "8º Ano",
+    "turma": "B",
+    "componentes": [
+      "Ana Clara Cortez",
+      "Isabelly Careline",
+      "Julya Gabriela",
+      "Maria Cecília Araújo."
+    ],
+    "orientador": "Marília Costa"
+  },
+  {
+    "id": 123,
+    "titulo": "Responsabilidade social do meio ambiente",
+    "serie": "8º Ano",
+    "turma": "B",
+    "componentes": [
+      "Inacio germano silvanio Rodrigo João felipe Francisco Arthur"
+    ],
+    "orientador": "Andreia"
+  },
+  {
+    "id": 124,
+    "titulo": "Poluição atmosférica",
+    "serie": "8º Ano",
+    "turma": "A",
+    "componentes": [
+      "Mateus Barbalho",
+      "Lionel Willans",
+      "Pedro Davi e Arthur Rodrigues"
+    ],
+    "orientador": "Joice Teixera"
+  },
+  {
+    "id": 125,
+    "titulo": "O inimigo invisível do aço:o que a oxidação do ferro causa no corpo humano?",
+    "serie": "8º Ano",
+    "turma": "A",
+    "componentes": [
+      "Luzimar Alexandre Alves Netto",
+      "Vinicius Cavalcante Corrêa Pessoa",
+      "Heitor Gabriel Guimarães Freitas"
+    ],
+    "orientador": "Joice Teixeira"
+  },
+  {
+    "id": 126,
+    "titulo": "Lei Maria da Penha: conhecer para proteger",
+    "serie": "8º Ano",
+    "turma": "B",
+    "componentes": [
+      "Thainá nunes de Medeiros",
+      "Sofia Liz Brito de Medeiros"
+    ],
+    "orientador": "ANDRÉIA"
+  },
+  {
+    "id": 127,
+    "titulo": "Óculos com sensores para cegos",
+    "serie": "8º Ano",
+    "turma": "B",
+    "componentes": [
+      "Filipe Nunes",
+      "Davi Alcides",
+      "Cláudio Filho"
+    ],
+    "orientador": "Vinícius Souza"
+  },
+  {
+    "id": 128,
+    "titulo": "CSI Escolar: A Ciência Contra o Crime",
+    "serie": "8º Ano",
+    "turma": "B",
+    "componentes": [
+      "Aramis Araújo Néo",
+      "Esther Oliveira Barreto",
+      "Mauro Augusto Escóssia de Azevêdo Cortez",
+      "Samuel Ramalho de Moura"
+    ],
+    "orientador": "Jean Olliveira"
+  },
+  {
+    "id": 129,
+    "titulo": "O impacto dos jogos de azar nas pessoas.",
+    "serie": "8º Ano",
+    "turma": "B",
+    "componentes": [
+      "Heitor Filgueira Morais",
+      "Ana Júlia Borges Izidorio"
+    ],
+    "orientador": "Andréia"
+  },
+  {
+    "id": 130,
+    "titulo": "Jogos de azar virtuais e seus impactos na saúde mental: riscos, consequências e estratégias de prevenção.",
+    "serie": "8º Ano",
+    "turma": "A",
+    "componentes": [
+      "Karen Araújo Azevedo",
+      "Alice Gurgel de Castro Alves",
+      "Heitor Wallas Gomes de Sousa",
+      "Louize de Melo Cavalcanti"
+    ],
+    "orientador": "Maria de Fátima Rafael Pinto"
+  },
+  {
+    "id": 131,
+    "titulo": "Video Game e Dopamina: Nosso Cérebro em Jogo – Ciclo 2",
+    "serie": "8º Ano",
+    "turma": "B",
+    "componentes": [
+      "Antonio Mendes Carvalho Neto",
+      "Davi Silvério Faustino Fernandes",
+      "Kauã Lucas Pinheiro Ferreira",
+      "Pedro Lucas de Souza Silva"
+    ],
+    "orientador": "Anderson da Silva Moura"
+  },
+  {
+    "id": 132,
+    "titulo": "Embalagem sustentável: plantando o futuro",
+    "serie": "8º Ano",
+    "turma": "B",
+    "componentes": [
+      "Ana Beatriz Silva",
+      "Ana Júlia Firmino Lopes",
+      "Cecília Fernandes Dantas de Queiroz",
+      "Maria Sophia da Silva"
+    ],
+    "orientador": "Andréia Vasconcelos (Professora de Biologia)"
+  },
+  {
+    "id": 133,
+    "titulo": "O Uso da Radiação na Medicina",
+    "serie": "8º Ano",
+    "turma": "A",
+    "componentes": [
+      "Marina Clara Duarte Amaro",
+      "Heitor Carlos Azevedo Braga",
+      "Luiz Felipe de Paiva Melo"
+    ],
+    "orientador": "Andreia Bezerra Costa"
+  },
+  {
+    "id": 134,
+    "titulo": "O TDAH em crianças e adolescentes: compreendendo os sintomas e estratégias de apoio",
+    "serie": "8º Ano",
+    "turma": "A",
+    "componentes": [
+      "Pedro Henrique Medeiros de Sousa",
+      "Ester Labelle Bezerra Fernandes",
+      "Maria Clara do Nascimento Duarte Bezerra"
+    ],
+    "orientador": "Maria de Fátima; Rafael Pinto"
+  },
+  {
+    "id": 135,
+    "titulo": "Do Descarte ao Estilo: Transformando Roupas Que Iriam Para O Lixo Em Novas Possibilidades",
+    "serie": "8º Ano",
+    "turma": "A",
+    "componentes": [
+      "Maria Clara Oliveira Costa de Araújo e Stella Faria Cabral"
+    ],
+    "orientador": "Joyce"
+  },
+  {
+    "id": 136,
+    "titulo": "Fast fashion: os impactos da moda rápida e como reduzi-los.",
+    "serie": "8º Ano",
+    "turma": "A",
+    "componentes": [
+      "Luara Vitória",
+      "Marina Cardoso",
+      "Isabella Maria",
+      "Valentina Sinésio"
+    ],
+    "orientador": "Andréia"
+  },
+  {
+    "id": 137,
+    "titulo": "Planejar para aprender: desenvolvimento de uma ferramenta digital para apoio à organização dos estudos.",
+    "serie": "8º Ano",
+    "turma": "C",
+    "componentes": [
+      "Maria Cecília Mendonça",
+      "Thaline Layane Ferreira dos Santos",
+      "Louysa Kewry Dantas de Lima",
+      "Enzo Gabriel Marques Januario"
+    ],
+    "orientador": "Maria de Fátima Rafael Pinto"
+  },
+  {
+    "id": 138,
+    "titulo": "Tecnologia Contra Ataques de Tubarão: O Potencial dos Campos Eletromagnéticos no Brasil",
+    "serie": "8º Ano",
+    "turma": "C",
+    "componentes": [
+      "Alfredo passalacqua Filho",
+      "Arthur Henrique Rebouças de Araújo",
+      "David Calebe Limeira de Oliveira"
+    ],
+    "orientador": "Thaisa Grazielle"
+  },
+  {
+    "id": 139,
+    "titulo": "O FUTURO DA SAUDE COM INTELIGÊNCIA ARTIFICIAL",
+    "serie": "8º Ano",
+    "turma": "C",
+    "componentes": [
+      "Eitor Miguel Azevedo de Aquino",
+      "Luis David Seminario Morais",
+      "Antônio Bruno Fernandes Da Costa",
+      "Davi Lucca Filgueira De Oliveira"
+    ],
+    "orientador": "Thaisa Grazielle"
+  },
+  {
+    "id": 140,
+    "titulo": "CSI Escolar: A Ciência Contra o Crime",
+    "serie": "8º Ano",
+    "turma": "B",
+    "componentes": [
+      "Aramis Araújo Néo",
+      "Esther Oliveira Barreto",
+      "Mauro Augusto Escóssia de Azevêdo Cortez",
+      "Samuel Ramalho de Moura"
+    ],
+    "orientador": "Andrea Bezerra dos Santos"
+  },
+  {
+    "id": 141,
+    "titulo": "Barra de cerreal que pessoas com cancer pode comer",
+    "serie": "8º Ano",
+    "turma": "A",
+    "componentes": [
+      "Heitor cabral luiz fernado leonardo pinto elano filho"
+    ],
+    "orientador": "Joice"
+  },
+  {
+    "id": 142,
+    "titulo": "Os impactos da IA no rendimento escolar dos alunos dos 8º anos",
+    "serie": "8º Ano",
+    "turma": "A",
+    "componentes": [
+      "Pedro Augusto Leão de Oliveira Duarte",
+      "João Henrique Fernandes Motta",
+      "Jorge Otávio Rocha Bandeira de Queiroz",
+      "Terencio Olímpos Oliveira Barros"
+    ],
+    "orientador": "Andrea Bezerra dos Santos"
+  },
+  {
+    "id": 143,
+    "titulo": "Inclusão e aprendizagem: a produção e utilização de um livro sensorial como recurso pedagógico para o desenvolvimento de crianças com Transtorno do Espectro Autista(TEA) e Síndrome de down.",
+    "serie": "9º Ano",
+    "turma": "A",
+    "componentes": [
+      "Maria Isabelly Lopes da Costa",
+      "Ana Cecília Rodrigues de Souza",
+      "Marina Valentina de Araújo Belém."
+    ],
+    "orientador": "Camila, Maria de Fátima"
+  },
+  {
+    "id": 144,
+    "titulo": "Redes sociais e adolescência: impactos da exposição digital na saúde emocional e no desenvolvimento psicossocial",
+    "serie": "9º Ano",
+    "turma": "A",
+    "componentes": [
+      "Lara Yasmin",
+      "Matheus Lohan e Giovanna Maia"
+    ],
+    "orientador": "Maria de Fátima"
+  },
+  {
+    "id": 145,
+    "titulo": "Produção de bioplástico a partir do amido de milho",
+    "serie": "9º Ano",
+    "turma": "A",
+    "componentes": [
+      "Sofia Godeiro Nunes / Jairo Ferreira de Sousa Neto"
+    ],
+    "orientador": "Vinicius Oliveira Souza"
+  },
+  {
+    "id": 146,
+    "titulo": "A Moda Que Descarta:Por que compramos tanto e para onde vão as roupas quando a tendência acaba?",
+    "serie": "9º Ano",
+    "turma": "B",
+    "componentes": [
+      "Maria Sofia Rodrigues bezerra David",
+      "Davi Cabral de Almeida Oliveira",
+      "Esther Izadora de Assis Belém"
+    ],
+    "orientador": "Maria De Fatima"
+  },
+  {
+    "id": 147,
+    "titulo": "O uso de anabolizantes e suplementos na musculação",
+    "serie": "9º Ano",
+    "turma": "B",
+    "componentes": [
+      "Emilly Lorhany Almeida da Silva",
+      "Marina Gabriela da Rocha Freire",
+      "Safira de Oliveira Ferreira"
+    ],
+    "orientador": "Rodolfo"
+  },
+  {
+    "id": 148,
+    "titulo": "Plástico biodegradável feito com alimentos",
+    "serie": "9º Ano",
+    "turma": "B",
+    "componentes": [
+      "Débora Braga",
+      "Pedro Guilherme e Lara Saldanha"
+    ],
+    "orientador": "Maria de Fátima"
+  },
+  {
+    "id": 149,
+    "titulo": "Neurobiologia: a Ciência por Trás do Bem-Estar",
+    "serie": "9º Ano",
+    "turma": "B",
+    "componentes": [
+      "Letícia Kandyce Marques Guimarães",
+      "Maíra Bárbara Lima Pérez Maia",
+      "Nathália Luna Fernandes Grangeiro"
+    ],
+    "orientador": "Maria de Fátima Mesquita"
+  },
+  {
+    "id": 150,
+    "titulo": "Tecnologia para salvar vidas: desenvolvimento de um dispositivo de localização para pessoas em áreas de risco ambiental",
+    "serie": "9º Ano",
+    "turma": "B",
+    "componentes": [
+      "Julia araujo",
+      "Jaykon leodesio e Francisco otávio Passos"
+    ],
+    "orientador": "Vinícius Oliveira de Souza"
+  },
+  {
+    "id": 151,
+    "titulo": "“Uso de Rádio como Ferramenta de Prevenção em Áreas de Risco”",
+    "serie": "9º Ano",
+    "turma": "B",
+    "componentes": [
+      "João Nunes Nakaharada Camelo",
+      "Heitor Maximus Silveira Costa",
+      "Moisés de Holanda Andrade"
+    ],
+    "orientador": "Vinícius de Oliveira Souza."
+  },
+  {
+    "id": 152,
+    "titulo": "Exposição às telas e desenvolvimento cognitivo infantil: desafios e estratégias para um uso equilibrado das tecnologias digitais.",
+    "serie": "9º Ano",
+    "turma": "B",
+    "componentes": [
+      "João Guilherme Pereira de Souza",
+      "Maria Luiza Santana de Lucena e Maria Eduarda Oliveira Fernandes"
+    ],
+    "orientador": "Maria de Fátima Rafael Pinto"
+  },
+  {
+    "id": 153,
+    "titulo": "Neurobiologia: A Ciência por traz do bem estar.",
+    "serie": "9º Ano",
+    "turma": "B",
+    "componentes": [
+      "Maíra Bárbara de Lima Perez Maia / Leticia Kandyce Marques Guimarães / Nathália Luna Fernandes Grangeiro"
+    ],
+    "orientador": "Maria de Fátima Rafael Pinto"
+  },
+  {
+    "id": 154,
+    "titulo": "Desenvolvimento de jogos didáticos como ferramenta de aprendizagem matemática.",
+    "serie": "9º Ano",
+    "turma": "B",
+    "componentes": [
+      "Júlio Cesar Rodrigues de Oliveira Neto / David de Souza Paivandre Maia / José Miguel Melo Fernandes"
+    ],
+    "orientador": "Vinicius Oliveira Souza"
+  },
+  {
+    "id": 155,
+    "titulo": "Areia Branca 2030: O Corredor de Micromobilidade e Drenagem Sustentável",
+    "serie": "1ª Série",
+    "turma": "A",
+    "componentes": [
+      "Luiz Breno Melo Valente Da Silva",
+      "Paola Sophia De Souza Cortez",
+      "Kévin Alexander Silva Pereira"
+    ],
+    "orientador": "Andrea Bezera"
+  },
+  {
+    "id": 156,
+    "titulo": "Catálogo Ilustrado da Fauna e Flora do Parque Maurício de Oliveira",
+    "serie": "1ª Série",
+    "turma": "A",
+    "componentes": [
+      "Isaac Emanoel Carlos Dias",
+      "Sophia Santos Linhares",
+      "Ana Júlia Teixeira Dantas"
+    ],
+    "orientador": "Andréa Bezerra"
+  },
+  {
+    "id": 157,
+    "titulo": "A influência das cores nas nossas emoções",
+    "serie": "1ª Série",
+    "turma": "A",
+    "componentes": [
+      "Luan Lincoln",
+      "Luiz Felipe",
+      "Edurda Silveira",
+      "Guilherme rocha"
+    ],
+    "orientador": "Andrea"
+  },
+  {
+    "id": 159,
+    "titulo": "Sexto Sentido: Tecnologia Arduino Ampliando a Percepção Visual",
+    "serie": "1ª Série",
+    "turma": "A",
+    "componentes": [
+      "Lucas Pinto",
+      "Fillipe",
+      "João Vitor",
+      "Joaquim"
+    ],
+    "orientador": "Andréia"
+  },
+  {
+    "id": 160,
+    "titulo": "Do Cacto Ao Plástico: Transformando recursos naturais em soluções sustentáveis.",
+    "serie": "1ª Série",
+    "turma": "A",
+    "componentes": [
+      "Lázaro Felipe",
+      "Pedro Davy",
+      "Vitor Bezerra",
+      "Harley Diego"
+    ],
+    "orientador": "Andréa Bezerra"
+  },
+  {
+    "id": 161,
+    "titulo": "Como funciona o sistema de transplantes e a importância de ser um doador.",
+    "serie": "1ª Série",
+    "turma": "B",
+    "componentes": [
+      "Alícia da Costa Maia",
+      "Anny Lohanny Borges de Oliveira Fernandes",
+      "Bruna Raíssa de Mendonça e Íngredi Fernandes Alves Maia."
+    ],
+    "orientador": "Andrea Bezerra"
+  },
+  {
+    "id": 162,
+    "titulo": "Como a inteligência artificial pode prejudicar o desenvolvimento de uma criança",
+    "serie": "1ª Série",
+    "turma": "B",
+    "componentes": [
+      "Lara Lima",
+      "Jenniffer Leão",
+      "Diogo Cauã e Lavínia Gabrielly."
+    ],
+    "orientador": "Andréa"
+  },
+  {
+    "id": 163,
+    "titulo": "\"O Crescimento do Vício em Jogos de Apostas Online e o Papel do Governo na Proteção da Saúde Pública",
+    "serie": "1ª Série",
+    "turma": "B",
+    "componentes": [
+      "maria fernanda gomes",
+      "bruna medeiros",
+      "ranna sophia e isabella pinto"
+    ],
+    "orientador": "andrea Bezerra"
+  },
+  {
+    "id": 164,
+    "titulo": "Quem cuida de quem ensina?",
+    "serie": "1ª Série",
+    "turma": "B",
+    "componentes": [
+      "Julia Jordana Fernandes Avelino",
+      "João Felipe Pinto de Freitas e Ana Luísa Faria Cabral"
+    ],
+    "orientador": "Andrea Bezerra"
+  },
+  {
+    "id": 165,
+    "titulo": "Aparelho reparador de água: melhor água do mundo",
+    "serie": "1ª Série",
+    "turma": "B",
+    "componentes": [
+      "Pietro Baldi",
+      "Abraão Heitor",
+      "Maykon Taylor"
+    ],
+    "orientador": "Andrea"
+  },
+  {
+    "id": 166,
+    "titulo": "O impacto futuro da Inteligência Artificial no mercado de trabalho",
+    "serie": "1ª Série",
+    "turma": "B",
+    "componentes": [
+      "Carlos Henrique",
+      "Erick Sales e Pedro Henrique Torquato"
+    ],
+    "orientador": "Anderson Silva"
+  },
+  {
+    "id": 167,
+    "titulo": "MOSSORÓ ESPONJA: SOLUÇÕES SUSTENTÁVEIS PARA AS INUNDAÇÕES NA AVENIDA DIOCESANA",
+    "serie": "2ª Série",
+    "turma": "A",
+    "componentes": [
+      "Antonio Joel Araújo Da Silva",
+      "Fabrício Fernando de Oliveira Neri",
+      "José Alyson Rodrigues de Jesus."
+    ],
+    "orientador": "Andréa Bezzera dos Santos"
+  },
+  {
+    "id": 168,
+    "titulo": "Desenvolvimento de um Dispositivo de Alerta Visual Ativado por Níveis Sonoros para Ambientes Inclusivos",
+    "serie": "2ª Série",
+    "turma": "A",
+    "componentes": [
+      "Gabriel de carvalho azevedo",
+      "Maria Vitória Brito da Silva Caetano",
+      "Marina Arruda Ferreira da Silva e Sophia Lara Muniz Targino."
+    ],
+    "orientador": "maria de fatima"
+  },
+  {
+    "id": 169,
+    "titulo": "Relação entre tempo de tela e qualidade do sono",
+    "serie": "2ª Série",
+    "turma": "A",
+    "componentes": [
+      "Ana Luiza de Oliveira Gomes",
+      "Marylia Aryane Queiroz Oliveira e Sofia Sawaguchi Barra"
+    ],
+    "orientador": "Andréa Bezerra"
+  },
+  {
+    "id": 170,
+    "titulo": "Filetador: Uma proposta sustentável e seus produtos derivados",
+    "serie": "2ª Série",
+    "turma": "A",
+    "componentes": [
+      "Madson Lucas da Cruz Melo",
+      "Luiz Guilherme da Costa Marcelino",
+      "Davi Lucas Barbosa de Paula Fernandes"
+    ],
+    "orientador": "Maria de Fátima"
+  },
+  {
+    "id": 171,
+    "titulo": "Intervenções para promover a Sustentabilidade em Bairros Habitacionais",
+    "serie": "2ª Série",
+    "turma": "A",
+    "componentes": [
+      "Gustavo Marcolino Barbosa",
+      "João Gabriel Morais de Andrade e Kaio Felipe da Silva Cavalcante"
+    ],
+    "orientador": "Andréa Bezerra"
+  },
+  {
+    "id": 172,
+    "titulo": "Acessibilidade em Movimento: Uma Nova Direção para a Inclusão",
+    "serie": "2ª Série",
+    "turma": "A",
+    "componentes": [
+      "Pedro Henrique Ferreira Paiva",
+      "Israel Barbosa Filgueira",
+      "Maria Cecília Mendes oliveira"
+    ],
+    "orientador": "Andrea bezerra"
+  },
+  {
+    "id": 173,
+    "titulo": "Os riscos associados ao uso de cigarros eletrônicos e seus impactos na realidade brasileira",
+    "serie": "2ª Série",
+    "turma": "A",
+    "componentes": [
+      "Pedro Lucas Morais Damasio",
+      "Edson Morais Albuquerque Neto"
+    ],
+    "orientador": "Andrea Bezerra"
+  },
+  {
+    "id": 174,
+    "titulo": "Avaliação do Projeto Anitifúngico do Extrato de Mata-Pasto",
+    "serie": "2ª Série",
+    "turma": "A",
+    "componentes": [
+      "Jade Santos De Vasconcelos",
+      "Mario Henrique Araújo bessa",
+      "Henry Darlan bezerra Silva",
+      "Maria Eduarda Saraiva Moreira do Nascimento"
+    ],
+    "orientador": "Andréa Bezerra dos santos"
+  },
+  {
+    "id": 175,
+    "titulo": "Purificador de Água por Destilação Solar",
+    "serie": "2ª Série",
+    "turma": "A",
+    "componentes": [
+      "Vicente de Oliveira lima",
+      "Davi Péricles Pires de Amorim Guerra",
+      "Lucas Miguel Delfino Fernandes Cunha e Antônio Araújo"
+    ],
+    "orientador": "Andrea bezerra"
+  }
+]
